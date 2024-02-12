@@ -15,7 +15,7 @@ This Python script demonstrates the setup of a simple data preprocessing pipelin
 
 ## Running the Script
 
-1. Open and run the Python script (`data_preprocessing_pipeline.py`) in a Python environment.
+1. Open and run the Python script (`preprocessing.ipynb`) in a Python environment.
 2. The script will load the sample dataset (or replace it with your own) and preprocess the data.
 3. Inspect the output to see the cleaned and prepared dataset.
 
